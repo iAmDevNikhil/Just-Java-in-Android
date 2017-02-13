@@ -1,3 +1,39 @@
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Just Java</string>
+
+    <!-- Header text for the list of toppings [CHAR LIMIT=20]-->
+    <string name="toppings">Toppings</string>
+
+    <!--Thank you message for order summary [CHAR LIMIT=20]-->
+    <string name="thank_you">Thank You!</string>
+
+    <!-- The hint for editText field [CHAR LIMIT=20] -->
+    <string name="hint_name">Name</string>
+
+    <!-- check box for whipped cream [CHAR LIMIT=20]-->
+    <string name="whipped_cream">Whipped Cream</string>
+
+    <!-- check box for chocolate [CHAR LIMIT=20]-->
+    <string name="chocolate">Chocolate</string>
+
+    <!-- Header text for Quantity [CHAR LIMIT=20]-->
+    <string name="quantity">Quantity</string>
+
+    <!-- Button text for Order button [CHAR LIMIT=20]-->
+    <string name="order_button">Order</string>
+
+    <!--Total price in order summary [CHAR LIMIT=20]-->
+    <string name="total_price">Total Price</string>
+
+    <!-- Add Chocolate header text [CHAR LIMIT=20]-->
+    <string name="add_chocolate">Add Chocolate ?</string>
+
+    <!-- Add Whipped cream header text [CHAR LIMIT=20]-->
+    <string name="add_whipped_cream">Add Whipped cream ?</string>
+
+    <!--
+        Name for the order summary. It will be shown in the format of "Name: Amy"
+        where Amy is the user's name. [CHAR LIMIT=NONE]
+     -->
+    <string name="order_summary_name" translatable="false">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
 </resources>

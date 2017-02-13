@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="add_chocolate">చాక్లెట్ జోడించండి</string>
+    <string name="add_whipped_cream">తన్నాడు క్రీమ్ జోడించండి</string>
+    <string name="chocolate">చాక్లెట్</string>
+    <string name="hint_name">పేరు</string>
+    <string name="order_button">ఆర్డర్</string>
+    <string name="quantity">పరిమాణం</string>
+    <string name="thank_you">ధన్యవాదాలు!</string>
+    <string name="toppings">టాపింగ్స్</string>
+    <string name="total_price">మొత్తం విలువ</string>
+    <string name="whipped_cream">తన్నాడు క్రీమ్</string>
+</resources>
